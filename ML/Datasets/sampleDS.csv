@@ -1,0 +1,11 @@
+StudentID,Name,Age,Email,Department,GPA,GraduationYear
+1023,John Doe,20,john.doe@example.com,Computer Science,3.5,2026
+1045,Alice Smith,21,alice.smith@example.org,Biology,3.8,2025
+1067,Michael Brown,19,michael.brown@example.edu,Mathematics,3.2,2027
+1089,Emily Davis,22,emily.davis@example.net,Physics,3.9,2024
+1112,David Wilson,20,david.wilson@example.com,Chemistry,3.1,2026
+1134,Sarah Miller,21,sarah.miller@example.org,Computer Science,3.7,2025
+1156,Chris White,19,chris.white@example.edu,Biology,3.3,2027
+1178,Jessica Green,22,jessica.green@example.net,Mathematics,3.6,2024
+1201,Kevin Hall,20,kevin.hall@example.com,Physics,3.0,2026
+1223,Laura King,21,laura.king@example.org,Chemistry,3.4,2025
